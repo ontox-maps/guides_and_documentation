@@ -14,8 +14,12 @@
 
 7- Check-list: [Quality-Control of PMs for release on MINERVA](https://github.com/ontox-pms/guides_and_documentation/tree/main/checklists)
 
-8- Tutorial: [MINERVA platform for map reviewers](https://github.com/ontox-pms/guides_and_documentation/tree/main/tutorials)
+8- Tutorials: [MINERVA platform for map reviewers](https://github.com/ontox-pms/guides_and_documentation/tree/main/tutorials)
   
 9- Reference management: [ONTOX maps curation group on ZOTERO](https://www.zotero.org/groups/4889346/ontox_maps_curation)
   
 10- [ONTOX' MINERVA](https://ontox.elixir-luxembourg.org/minerva/)
+
+11 - [Mailing list](https://github.com/ontox-maps/guides_and_documentation/blob/main/mailing_list/mailing_list_link.Rmd).
+
+12- [ONTOX PMs identifiers list]()
