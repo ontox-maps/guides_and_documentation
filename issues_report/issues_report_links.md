@@ -12,8 +12,5 @@ The issues reports are currently on a shared google drive folder. You can find t
 * Neural Tube Closure Physiological Map
   + Issues report (soon)
   
-* Urine Production Physiological Map
-  + Issues report (soon)
-  
-* Vitamin D Metabolism Physiological Map
+* Nephron Physiological Map
   + Issues report (soon)
