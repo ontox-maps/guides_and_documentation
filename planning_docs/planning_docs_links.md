@@ -16,10 +16,7 @@ The planning documents and table of contents are currently on a shared google dr
   + Planning document (soon)
   + Table of contents (soon)
   
-* Urine Production Physiological Map
+* Nephron Physiological Map
   + Planning document (soon)
   + Table of contents (soon)
   
-* Vitamin D Metabolism Physiological Map
-  + Planning document (soon)
-  + Table of contents (soon)
