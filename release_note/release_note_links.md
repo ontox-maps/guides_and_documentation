@@ -11,10 +11,7 @@ The release notes are currently on a shared google drive folder. You can find th
 
 * Neural Tube Closure Physiological Map
   + [Release note](https://docs.google.com/document/d/1nf8SN6C7xJ9cy2xjXM9cJs062Gv-Tyyz/edit)
-  
-* Urine Production Physiological Map
-  + Release note (soon)
-  
-* Vitamin D Metabolism Physiological Map
+   
+* Nephron Physiological Map
   + [Release note](https://docs.google.com/document/d/1eeM4brbRoMOSy8RQ7ST1pJiZ6t0iyYgi/edit)
   
