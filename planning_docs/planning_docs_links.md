@@ -1,12 +1,12 @@
 The planning documents and table of contents are currently on a shared google drive folder until final approval. You can find the links for each one below:
 
 * Liver Bile Secretion Physiological Map
-  + [Planning document](https://docs.google.com/document/d/1uE6sFm-Bv656eMWf_pZjHw4c8GFN1gfY/edit)
-  + [Table of contents](https://docs.google.com/document/d/1b44POswVAXLkX3A239Dma1anCgqa4Nd2/edit)
+  + [Planning document](https://docs.google.com/document/d/1_x00Ror-EV8pEDRFUV4MJ6fzay1HBCf9H58_49oVh9c/edit)
+  + [Table of contents](https://docs.google.com/document/d/1G4j03ydBwOAiwnj68YhTnhv8dkxz7tJPEZyuiV8eH0o/edit)
   
 * Liver Lipid Metabolism Physiological Map
-  + [Planning document](https://docs.google.com/document/d/15LmnaA59UECdvvW7JF3LcPtrqoohWdUe/edit)
-  + [Table of contents](https://docs.google.com/document/d/1xxjBZkz94juHJqOM0hcvCnSS1r39UHua/edit)
+  + [Planning document](https://docs.google.com/document/d/1-VOncGb7grbMV_QQjiCr-zBNU4qbhgyL54wK90N2ACw/edit?usp=sharing)
+  + [Table of contents](https://docs.google.com/document/d/1hFWCnR2Y_9g1iY4eNmK0Oveae3TbdN7VyUAYF6CmsyQ/edit?usp=sharing)
   
 * Physiological Map of the Developing Brain
   + [Planning document](https://docs.google.com/document/d/1svPywN__s13jsntVCDTx3JFblIHT6JKa/edit)
