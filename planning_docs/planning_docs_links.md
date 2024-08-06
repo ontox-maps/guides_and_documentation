@@ -9,8 +9,8 @@ The planning documents and table of contents are currently on a shared google dr
   + [Table of contents](https://docs.google.com/document/d/1hFWCnR2Y_9g1iY4eNmK0Oveae3TbdN7VyUAYF6CmsyQ/edit?usp=sharing)
   
 * Physiological Map of the Developing Brain
-  + [Planning document](https://docs.google.com/document/d/1svPywN__s13jsntVCDTx3JFblIHT6JKa/edit)
-  + [Table of contents](https://docs.google.com/document/d/1nVMoHbBx0mKVQziOJI2hkNpHx_NYoDed/edit)
+  + Planning document (soon)
+  + Table of contents (soon)
   
 * Neural Tube Closure Physiological Map
   + Planning document (soon)
