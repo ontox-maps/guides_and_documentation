@@ -22,6 +22,6 @@
   
 11- [ONTOX' MINERVA](https://ontox.elixir-luxembourg.org/minerva/)
 
-12 - [Mailing list](https://github.com/ontox-maps/guides_and_documentation/blob/main/mailing_list/mailing_list_link.Rmd).
+12 - [Mailing list](https://github.com/ontox-maps/guides_and_documentation/blob/main/mailing_list/mailing_list_link.md).
 
 
