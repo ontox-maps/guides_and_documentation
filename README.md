@@ -6,7 +6,7 @@
 
 3- [Planning documents and Table of Contents for the PMs](https://github.com/ontox-maps/guides_and_documentation/tree/main/planning_docs)
 
-4- [ONTOX PMs identifiers list](https://github.com/ontox-maps/guides_and_documentation/blob/main/identifiers_list/identifiers_list.Rmd)
+4- [ONTOX PMs identifiers list](https://github.com/ontox-maps/guides_and_documentation/blob/main/identifiers_list/identifiers_list.md)
 
 5- [Pathway files and discussion docs](https://github.com/ontox-maps/ontox_maps)
 
